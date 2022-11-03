@@ -29,27 +29,27 @@ padding: 3px;
 
 
 #img{
-    display: flex;
-    justify-content: center;
+display: flex;
+justify-content: center;
 }
 
 
 #voltar{
-    visibility: hidden;
-    text-align: center;
-    cursor: pointer;
+visibility: hidden;
+text-align: center;
+cursor: pointer;
 
 }
 
 #display{
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
+display: flex;
+justify-content: center;
+margin-top: 50px;
 }
 
 #botao{
-    margin-bottom: 10px;
-    cursor: pointer;
+margin-bottom: 10px;
+cursor: pointer;
 }
 
 
