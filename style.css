@@ -32,3 +32,35 @@ padding: 3px;
     display: flex;
     justify-content: center;
 }
+
+
+#voltar{
+    visibility: hidden;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+#display{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#botao{
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+
+#display :hover{
+transform: scale(1.1);
+box-shadow: 6px 6px 6px black;
+
+}
+
+
+#simulation :hover{
+transform: scale(1.1);
+box-shadow: 6px 6px 6px black;
+}
