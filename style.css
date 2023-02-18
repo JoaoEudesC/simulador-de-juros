@@ -31,6 +31,14 @@ h1{text-align: center;}
 #img{
   display: flex;
   justify-content: center;
+  margin-bottom: 70px;
+  
+}
+
+#img img{
+  border:solid rgb(106, 106, 240);
+  border-radius: 20px;
+  
 }
 
 
@@ -63,4 +71,10 @@ h1{text-align: center;}
 #simulation :hover{
   transform: scale(1.1);
   box-shadow: 6px 6px 6px black;
+}
+
+input{
+  padding: 15px;
+  border-radius: 8px;
+  border: rgb(145, 145, 240) solid;
 }
